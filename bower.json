@@ -1,7 +1,7 @@
 {
   "name": "demo",
   "description": "",
-  "main": "gulpfile.babel.js",
+  "main": "gulpfile.js",
   "authors": [
     "Erica"
   ],
